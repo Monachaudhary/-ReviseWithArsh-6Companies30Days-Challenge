@@ -13,11 +13,11 @@ Maximum Subarray
 Example: Input: [-2,1,-3,4,-1,2,1,-5,4]; Output: 6 (subarray [4,-1,2,1])
 Merge Intervals
 
-**Problem Statement: **Merge overlapping intervals.
+**Problem Statement:** Merge overlapping intervals.
 Example: Input: intervals = [[1,3],[2,6],[8,10],[15,18]]; Output: [[1,6],[8,10],[15,18]]
 Binary Tree Maximum Path Sum
 
-**Problem Statement: **Find the maximum path sum between two nodes in a binary tree.
+**Problem Statement:** Find the maximum path sum between two nodes in a binary tree.
 Example: Input: [-10, 9, 20, null, null, 15, 7]; Output: 42
 LRU Cache
 
@@ -25,7 +25,7 @@ LRU Cache
 Example: cache = LRUCache(2); cache.put(1, 1); cache.put(2, 2); cache.get(1); // returns 1;
 Word Ladder
 
-**Problem Statement: **Transform the word "start" to "end" by changing only one letter at a time, with each transformed word being a valid word from a given word list.
+**Problem Statement:** Transform the word "start" to "end" by changing only one letter at a time, with each transformed word being a valid word from a given word list.
 Example: start = "hit"; end = "cog"; wordList = ["hot","dot","dog","lot","log","cog"]; Output: 5
 **How to Use**
 Clone this repository: git clone [repository]
