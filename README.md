@@ -3,6 +3,7 @@
 This repository contains a curated set of coding questions often asked in technical interviews at top tech companies, commonly known as FAANG (Facebook, Amazon, Apple, Netflix, Google). These questions are designed to help you prepare for coding interviews and enhance your problem-solving skills.
 
 **List of Questions**
+</b>
 Two Sum
 
 **Problem Statement:** Given an array of integers, return indices of the two numbers such that they add up to a specific target.
